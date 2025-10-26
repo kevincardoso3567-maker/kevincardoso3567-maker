@@ -17,12 +17,15 @@ Fique à vontade para explorar meus repositórios e projetos!
 
 ## 🛠️ Habilidades e Tecnologias
 
+<br>
+
 <div align="center">
-  <img src="html.png" alt="Logo HTML5" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="css.png" alt="Logo CSS3" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="js.png" alt="Logo JavaScript" height="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="Ícone de JavaScript" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" alt="Ícone de React" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Ícone de Python" width="50" height="50"/>
+
 </div>
 
 <br>
@@ -36,11 +39,7 @@ Alguns projetos que ilustram minhas habilidades:
     
 Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e rotinas com análises para acompanhar seu progresso semanal, receber feedback sobre seus hábitos e ajustar sua carga de tarefas, tornando sua rotina mais eficiente e produtiva.
     * *Tecnologias:* JavaScript, HTML, CSS.
-    <div align="center">
-      <img src="organizador-de-rotina-1.png" alt="Tela 1 do Organizador de Rotina" width="300"/> 
-      &nbsp;&nbsp;&nbsp; 
-      <img src="organizador-de-rotina-2.png" alt="Tela 2 do Organizador de Rotina" width="300"/>
-    </div>
+    
 
 
 
@@ -48,32 +47,23 @@ Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e r
 * **[Sistema-dias-doces](https://github.com/kevincardoso3567-maker/Sistema-dias-doces)**
     Descrição: Sistema Dias Doces é uma aplicação web desenvolvida especialmente para a empresa Dias Doces, com foco em otimizar a gestão de clientes, produtos, vendas e estoque. O sistema oferece relatórios, análises e ferramentas de precificação, tornando o controle do negócio mais prático, eficiente e personalizado.
     * *Tecnologias:* JavaScript, HTML, CSS.
-<div align="center">
-      <img src="sistema-dias-doces.png" alt="Sistema dias doces" width="300"/> 
+
 
 
 
 
 * **[Portaly](https://kevincardoso3567-maker.github.io/Portaly/)**
-    * *Descrição: Portaly é um hub de links inteligente que centraliza seus conteúdos, cursos e ferramentas favoritas em um painel visual e personalizado. Com ele, você acessa tudo a um clique, sem perder tempo navegando entre abas, perfis ou playlists.
+    Descrição: Portaly é um hub de links inteligente que centraliza seus conteúdos, cursos e ferramentas favoritas em um painel visual e personalizado. Com ele, você acessa tudo a um clique, sem perder tempo navegando entre abas, perfis ou playlists.
     * *Tecnologias:* JavaScript, HTML, CSS.
-    <div align="center">
-      <img src="portaly formulario.png" alt="Tela 1 do Organizador de Rotina" width="300"/> 
-      &nbsp;&nbsp;&nbsp; 
-      <img src="capa portaly.png" alt="Tela 2 do Organizador de Rotina" width="300"/>
-    </div>
+   
 
 
 
 
 * **[TaskDocs](https://kevincardoso3567-maker.github.io/TaskDocs/)**
-    * *Descrição:* TaskDocs é uma aplicação web para organizar e registrar guias passo a passo de forma simples e acessível. Permite cadastrar guias com título, passos e itens necessários, anexar arquivos, pesquisar rapidamente e utilizar uma interface leve e responsiva. Ideal para criar tutoriais, documentar processos e armazenar informações específicas, o TaskDocs ajuda a construir uma base de conhecimento própria, reunindo tudo de forma organizada, prática e sempre disponível.
+    Descrição: TaskDocs é uma aplicação web para organizar e registrar guias passo a passo de forma simples e acessível. Permite cadastrar guias com título, passos e itens necessários, anexar arquivos, pesquisar rapidamente e utilizar uma interface leve e responsiva. Ideal para criar tutoriais, documentar processos e armazenar informações específicas, o TaskDocs ajuda a construir uma base de conhecimento própria, reunindo tudo de forma organizada, prática e sempre disponível.
     * *Tecnologias:* JavaScript, HTML, CSS.
-    <div align="center">
-      <img src="capa teskdocs.png" alt="Tela 1 do Organizador de Rotina" width="300"/> 
-      &nbsp;&nbsp;&nbsp; 
-      <img src="teskdocs imagem 2.png" alt="Tela 2 do Organizador de Rotina" width="300"/>
-    </div>
+   
 
 
 
