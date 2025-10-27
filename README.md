@@ -39,6 +39,9 @@ Alguns projetos que ilustram minhas habilidades:
     
 Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e rotinas com análises para acompanhar seu progresso semanal, receber feedback sobre seus hábitos e ajustar sua carga de tarefas, tornando sua rotina mais eficiente e produtiva.
     * *Tecnologias:* JavaScript, HTML, CSS.
+
+  <img width="1578" height="879" alt="Image" src="https://github.com/user-attachments/assets/efdf1182-5906-48dd-9482-9c1d8cd396b6" />
+<img width="1578" height="879" alt="Image" src="https://github.com/user-attachments/assets/40b72785-e3c4-46f9-9a4b-372f4beedd06" />
     
 
 
@@ -47,7 +50,7 @@ Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e r
 * **[Sistema-dias-doces](https://github.com/kevincardoso3567-maker/Sistema-dias-doces)**
     Descrição: Sistema Dias Doces é uma aplicação web desenvolvida especialmente para a empresa Dias Doces, com foco em otimizar a gestão de clientes, produtos, vendas e estoque. O sistema oferece relatórios, análises e ferramentas de precificação, tornando o controle do negócio mais prático, eficiente e personalizado.
     * *Tecnologias:* JavaScript, HTML, CSS.
-
+<img width="1578" height="879" alt="Image" src="https://github.com/user-attachments/assets/7471cd2b-ba97-40e8-a3ea-f135358f2340" />
 
 
 
@@ -56,7 +59,8 @@ Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e r
     Descrição: Portaly é um hub de links inteligente que centraliza seus conteúdos, cursos e ferramentas favoritas em um painel visual e personalizado. Com ele, você acessa tudo a um clique, sem perder tempo navegando entre abas, perfis ou playlists.
     * *Tecnologias:* JavaScript, HTML, CSS.
    
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/dae39d02-dad2-42b4-adcf-58adb8d1b3d8" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/3a9db74b-1012-44e9-b6f9-9a59e5ffece9" />
 
 
 
@@ -64,7 +68,8 @@ Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e r
     Descrição: TaskDocs é uma aplicação web para organizar e registrar guias passo a passo de forma simples e acessível. Permite cadastrar guias com título, passos e itens necessários, anexar arquivos, pesquisar rapidamente e utilizar uma interface leve e responsiva. Ideal para criar tutoriais, documentar processos e armazenar informações específicas, o TaskDocs ajuda a construir uma base de conhecimento própria, reunindo tudo de forma organizada, prática e sempre disponível.
     * *Tecnologias:* JavaScript, HTML, CSS.
    
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/91945c33-b9d5-4b77-8797-86d46df34dfc" />
+<img width="1600" height="896" alt="Image" src="https://github.com/user-attachments/assets/99dd6880-82b3-4590-bb82-1d098f1e9567" />
 
 
 ---
