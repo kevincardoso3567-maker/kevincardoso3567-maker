@@ -1,4 +1,4 @@
-# Olá Eu sou o Kevin Cardoso 
+# Olá, Eu sou o Kevin Cardoso 
 
 ###
 
