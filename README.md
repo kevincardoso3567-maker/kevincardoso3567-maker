@@ -55,7 +55,7 @@ Descrição: Um projeto para ajudar a gerenciar e organizar tarefas diárias e r
 
 
 
-* **[Portaly](https://kevincardoso3567-maker.github.io/Portaly/)**
+* **[Portaly](https://github.com/kevincardoso3567-maker/Portaly)**
     Descrição: Portaly é um hub de links inteligente que centraliza seus conteúdos, cursos e ferramentas favoritas em um painel visual e personalizado. Com ele, você acessa tudo a um clique, sem perder tempo navegando entre abas, perfis ou playlists.
     * *Tecnologias:* JavaScript, HTML, CSS.
    
