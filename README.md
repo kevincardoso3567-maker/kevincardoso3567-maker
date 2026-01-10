@@ -17,7 +17,7 @@ O objetivo é permitir consultas rápidas e aprendizado contínuo, tornando o us
 **Tecnologias:** HTML, CSS, JavaScript  
 **Status:** Em desenvolvimento (v1.1)
 
-* **[SWOT PRO](https://kevincardoso3567-maker.github.io/SWOT-PRO/)** SWOT Pro é uma plataforma web focada em análise estratégica e apoio à tomada de decisão, utilizando a metodologia SWOT combinada com critérios objetivos e visualização clara dos resultados.
+* **[SWOT PRO](https://kevincardoso3567-maker.github.io/SWOT-PRO/)**  é uma plataforma web focada em análise estratégica e apoio à tomada de decisão, utilizando a metodologia SWOT combinada com critérios objetivos e visualização clara dos resultados.
 A ferramenta permite analisar ideias, projetos e cenários de forma estruturada, ajudando o usuário a identificar riscos, oportunidades, pontos fortes e fragilidades com maior precisão, clareza e consistência.
 Seu uso reduz análises superficiais e transforma o processo decisório em algo mais racional, comparável e confiável.
 
