@@ -23,7 +23,7 @@ Seu uso reduz análises superficiais e transforma o processo decisório em algo 
 
 **Tecnologias:** HTML, CSS, JavaScript  
 **Status:** Em desenvolvimento 1.0
-Banco de dados: Google Sheets
+**Banco de dados:** Google Sheets
 
 
 
