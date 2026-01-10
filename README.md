@@ -25,7 +25,7 @@ O objetivo é permitir consultas rápidas e aprendizado contínuo, tornando o us
 
 ---
 
-### Tecnologias e Ferramentas
+  ### Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev">
