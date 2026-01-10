@@ -8,7 +8,7 @@ Meu objetivo é transformar complexidade em sistemas claros, visuais e eficiente
 
 ---
 
-###  Projeto em destaque: MeuPc
+###  Projeto em destaque: 
 
 
 * **[MeuPC](https://kevincardoso3567-maker.github.io/MeuPC/)** é uma plataforma web em desenvolvimento que centraliza conteúdos práticos sobre o uso do computador e do Windows, como atalhos de teclado, comandos do Windows + R e dicas para aumentar a produtividade no dia a dia.  
