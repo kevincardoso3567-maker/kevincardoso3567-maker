@@ -15,16 +15,11 @@ Meu objetivo é transformar complexidade em sistemas claros, visuais e eficiente
 O objetivo é permitir consultas rápidas e aprendizado contínuo, tornando o uso do PC mais eficiente para qualquer nível de usuário.
 
 **Tecnologias:** HTML, CSS, JavaScript  
-**Status:** Em desenvolvimento (v1.1)
+**Status:** Em desenvolvimento (v2.0)
 
-* **[SWOT PRO](https://kevincardoso3567-maker.github.io/SWOT-PRO/)**  é uma plataforma web focada em análise estratégica e apoio à tomada de decisão, utilizando a metodologia SWOT combinada com critérios objetivos e visualização clara dos resultados.
-A ferramenta permite analisar ideias, projetos e cenários de forma estruturada, ajudando o usuário a identificar riscos, oportunidades, pontos fortes e fragilidades com maior precisão, clareza e consistência.
-Seu uso reduz análises superficiais e transforma o processo decisório em algo mais racional, comparável e confiável.
 
-**Tecnologias:** HTML, CSS, JavaScript  
-**Status:** Em desenvolvimento 1.0
 
-**Banco de dados:** Google sheets
+
 
 
 
