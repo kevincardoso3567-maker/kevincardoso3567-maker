@@ -1,6 +1,6 @@
 # Olá, Sou Kevin Cardoso
 
-Desenvolvedor Web & Administrador focado em eficiência
+Desenvolvedor Web 
 
 O foco do meu trabalho é na criação de soluções práticas para organização, gestão e otimização de tempo. Desenvolvo ferramentas que simplificam processos, reduzem atrito operacional e aumentam a produtividade no dia a dia.
 
